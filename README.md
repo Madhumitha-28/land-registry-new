@@ -3,4 +3,4 @@
 ---- Frontend is connected with backend with the help of Flask
 ---- Blocks are created for each land details, it made secure and decentralised with the help of unique identifier 
 ---- The block creation and retrieval of block data is also implemented.
----- With this the block can be secured and immutable.
+---- With this the block can be secured and immutable..
